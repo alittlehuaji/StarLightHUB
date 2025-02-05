@@ -52,7 +52,11 @@ StartLight Server 交流群表情包仓库
 ## 我可以做一些什么？
 
 - 你可以随意的去群里发布这些表情包
+- 你可以给 SLS管理 打钱，以确保我~~不会被 群管理 Gank~~
 
 > [!WARNING]
 >
 > 另外请你注意，在其他无关的地方请不要乱刷这些表情包。以免为其他人带来困扰
+
+## 甲级战犯名单
+![逆天名单](https://contrib.rocks/image?repo=alittlehuaji/StarLightHUB)
