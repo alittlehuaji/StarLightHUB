@@ -64,7 +64,7 @@
 > 另外请你注意，在**其他无关的地方请不要乱刷这些表情包**。以免为他人带来困扰
 
 ## 甲级战犯名单
-![逆天名单](https://contrib.rocks/image?repo=huangsam04/StarLightHUB)
+![逆天名单](https://contrib.rocks/image?repo=alittlehuaji/StarLightHUB)
 
 ------
 
